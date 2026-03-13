@@ -98,3 +98,20 @@ code {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0 0.75rem;
+  height: 1.5rem;
+  font-size: 0.75rem;
+  line-height: 1.5rem;
+  border-radius: 0.57rem;
+  background-color: #9ca3af;
+  color: #0f1115;
+}
