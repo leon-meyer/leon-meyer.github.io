@@ -21,7 +21,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 ```
 
-With this I can serve the blog locally with bundle exec jekyll serve and see the changes I made before pushing them to GitHub.
+With this I can serve the blog locally with `bundle exec jekyll serve` and see the changes I made before pushing them to GitHub.
 
 ## Project Structure
 
