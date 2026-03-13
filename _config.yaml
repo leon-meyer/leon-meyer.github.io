@@ -1,0 +1,13 @@
+title: Leons Blog
+description: Brain dump for web dev, selfhosting, and projects
+url: "https://leon-meyer.github.io"
+baseurl: ""
+
+theme: minima
+
+markdown: kramdown
+
+permalink: /blog/:title/
+
+plugins:
+  - jekyll-feed
