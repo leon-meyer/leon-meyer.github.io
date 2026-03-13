@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI & Jevons Paradox"
-date: 2026-03-13
+date: 2026-03-14
 tags: [ai, paradox, vibe-coding, bias, psychology]
 ---
 
