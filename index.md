@@ -12,7 +12,7 @@ The tech stack I am most comfortable with consists of TypeScript-based framework
 
 In my free time, I am a guitarist in a pop punk band, so maybe I will write about this as well.
 
-If you have any questions or just want to chat with me, feel free to contact me! [My LinkedIn profile](https://www.linkedin.com/in/leonmeyer00/)
+If you have any questions or just want to chat with me, feel free to contact me!
 
 All posts will be written by me. AI will only be used to correct my posts since English is not my mother tongue.
 

@@ -89,6 +89,9 @@ code {
   margin-top: 3rem;
   font-size: 0.9rem;
   color: var(--muted);
+  display: flex;
+  gap: 2rem;
+  align-items: center;
 }
 
 .post-meta {
