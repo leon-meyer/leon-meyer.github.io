@@ -2,7 +2,7 @@
 layout: post
 title: "AI & Jevons Paradox"
 date: 2026-03-14
-tags: [ai, paradox, vibe-coding, bias, psychology]
+tags: [ai, paradox, vibe-coding, bias, psychology, tech]
 ---
 
 AI is everywhere. There is basically no person I know except maybe my grandparents who doesn't use AI at least once a week, if not multiple times a day.  
